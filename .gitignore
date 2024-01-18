@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# 도커 관련
+.env

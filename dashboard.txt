@@ -1,0 +1,3 @@
+대시보드 ID
+1. GPU exporter: 14574
+2. Node exporter: 1860
