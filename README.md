@@ -22,11 +22,11 @@ This guide is for setting up a monitoring system for a Sony server using Docker,
 - Configure dashboards in Grafana using the following:
   - **Nvidia GPU Metrics**: [Nvidia GPU Metrics Dashboard](https://grafana.com/grafana/dashboards/14574-nvidia-gpu-metrics/)
   
-  <img src="https://github.com/yspkm/metric/assets/71680670/b79b0846-c73c-4944-b796-30fc00220296" style="width: 50%; height: auto;">
+  <img src="https://github.com/yspkm/metric/assets/71680670/b79b0846-c73c-4944-b796-30fc00220296" style="width: 100%; height: auto;">
 
   - **Node Exporter Full**: [Node Exporter Full Dashboard](https://grafana.com/grafana/dashboards/1860-node-exporter-full/)
   
-  <img src="https://github.com/yspkm/metric/assets/71680670/fd61066e-5582-4fc9-80b2-326116cd1d12" style="width: 50%; height: auto;">
+  <img src="https://github.com/yspkm/metric/assets/71680670/fd61066e-5582-4fc9-80b2-326116cd1d12" style="width: 100%; height: auto;">
 
 ### Step 5: Teardown
 - To stop and remove all containers, use the command: `docker-compose down`.
